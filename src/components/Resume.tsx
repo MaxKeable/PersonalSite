@@ -44,6 +44,7 @@ const Resume = () => {
             <a
               href="https://drive.google.com/file/d/1ttM0jRU5_mxG9VNglv9QVuYi6NDkopIe/view?usp=sharing"
               target="_blank"
+              rel="noopener noreferrer"
               style={{ textDecoration: "none" }}
             >
               <Box
