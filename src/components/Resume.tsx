@@ -49,7 +49,7 @@ const Resume = () => {
         <Box className="tiles">
           <SlideReveal delay={0.5}>
             <a
-              href="https://drive.google.com/file/d/1ttM0jRU5_mxG9VNglv9QVuYi6NDkopIe/view?usp=sharing"
+              href="https://drive.google.com/file/d/1-75GPRakKz4OunFwQ4a3BT1FO98R95D2/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               style={{ textDecoration: "none" }}
