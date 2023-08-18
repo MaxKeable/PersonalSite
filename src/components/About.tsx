@@ -82,7 +82,7 @@ const About = () => {
               >
                 <Typography variant="h5">Australia</Typography>
                 <Typography variant="h5" sx={{ mt: 3 }}>
-                  Sunshine Coast
+                  Brisbane
                 </Typography>
                 <Typography variant="h5" sx={{ mt: 3 }}>
                   {age}
